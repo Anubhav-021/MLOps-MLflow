@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anuch/Documents/MLOPS/MLOps-MLflow/mlruns/794642039917074018/09f3b465bf774ef3a4eed8f9c097b48a/artifacts
+end_time: 1750080097425
+entry_point_name: ''
+experiment_id: '794642039917074018'
+lifecycle_stage: active
+run_id: 09f3b465bf774ef3a4eed8f9c097b48a
+run_name: rumbling-finch-298
+run_uuid: 09f3b465bf774ef3a4eed8f9c097b48a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080097311
+status: 3
+tags: []
+user_id: anuch

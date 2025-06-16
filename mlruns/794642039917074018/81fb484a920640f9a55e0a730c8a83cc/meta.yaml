@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anuch/Documents/MLOPS/MLOps-MLflow/mlruns/794642039917074018/81fb484a920640f9a55e0a730c8a83cc/artifacts
+end_time: 1750080097949
+entry_point_name: ''
+experiment_id: '794642039917074018'
+lifecycle_stage: active
+run_id: 81fb484a920640f9a55e0a730c8a83cc
+run_name: rogue-horse-900
+run_uuid: 81fb484a920640f9a55e0a730c8a83cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080097843
+status: 3
+tags: []
+user_id: anuch

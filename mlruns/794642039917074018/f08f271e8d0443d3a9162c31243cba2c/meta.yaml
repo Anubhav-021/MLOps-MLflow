@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anuch/Documents/MLOPS/MLOps-MLflow/mlruns/794642039917074018/f08f271e8d0443d3a9162c31243cba2c/artifacts
+end_time: 1750080096996
+entry_point_name: ''
+experiment_id: '794642039917074018'
+lifecycle_stage: active
+run_id: f08f271e8d0443d3a9162c31243cba2c
+run_name: ambitious-worm-272
+run_uuid: f08f271e8d0443d3a9162c31243cba2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080096860
+status: 3
+tags: []
+user_id: anuch

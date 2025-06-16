@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anuch/Documents/MLOPS/MLOps-MLflow/mlruns/794642039917074018/89a6d9ae519d417baa99f91fe4c2364b/artifacts
+end_time: 1750080097563
+entry_point_name: ''
+experiment_id: '794642039917074018'
+lifecycle_stage: active
+run_id: 89a6d9ae519d417baa99f91fe4c2364b
+run_name: classy-bear-448
+run_uuid: 89a6d9ae519d417baa99f91fe4c2364b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080097440
+status: 3
+tags: []
+user_id: anuch

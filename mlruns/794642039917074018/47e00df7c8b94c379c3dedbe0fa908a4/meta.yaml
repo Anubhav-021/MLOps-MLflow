@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anuch/Documents/MLOPS/MLOps-MLflow/mlruns/794642039917074018/47e00df7c8b94c379c3dedbe0fa908a4/artifacts
+end_time: 1750080096393
+entry_point_name: ''
+experiment_id: '794642039917074018'
+lifecycle_stage: active
+run_id: 47e00df7c8b94c379c3dedbe0fa908a4
+run_name: carefree-owl-755
+run_uuid: 47e00df7c8b94c379c3dedbe0fa908a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080096248
+status: 3
+tags: []
+user_id: anuch

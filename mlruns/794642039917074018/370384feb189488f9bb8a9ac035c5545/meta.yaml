@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anuch/Documents/MLOPS/MLOps-MLflow/mlruns/794642039917074018/370384feb189488f9bb8a9ac035c5545/artifacts
+end_time: 1750080097829
+entry_point_name: ''
+experiment_id: '794642039917074018'
+lifecycle_stage: active
+run_id: 370384feb189488f9bb8a9ac035c5545
+run_name: burly-goose-96
+run_uuid: 370384feb189488f9bb8a9ac035c5545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080097724
+status: 3
+tags: []
+user_id: anuch

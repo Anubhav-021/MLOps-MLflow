@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anuch/Documents/MLOPS/MLOps-MLflow/mlruns/794642039917074018/c84f3bc6ef404f9e933ed6a31bbe675e/artifacts
+end_time: 1750080096705
+entry_point_name: ''
+experiment_id: '794642039917074018'
+lifecycle_stage: active
+run_id: c84f3bc6ef404f9e933ed6a31bbe675e
+run_name: stylish-hare-854
+run_uuid: c84f3bc6ef404f9e933ed6a31bbe675e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750080096564
+status: 3
+tags: []
+user_id: anuch
