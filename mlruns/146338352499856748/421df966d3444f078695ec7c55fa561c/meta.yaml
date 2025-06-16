@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/146338352499856748/421df966d3444f078695ec7c55fa561c/artifacts
+end_time: 1749900804346
+entry_point_name: ''
+experiment_id: '146338352499856748'
+lifecycle_stage: active
+run_id: 421df966d3444f078695ec7c55fa561c
+run_name: judicious-crab-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749900803383
+status: 3
+tags: []
+user_id: anuch

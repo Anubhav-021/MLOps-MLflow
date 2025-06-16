@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8cf2a6346aee406c824c6adb0c5a194e/artifacts
+end_time: 1749896688065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cf2a6346aee406c824c6adb0c5a194e
+run_name: clumsy-crab-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749896686913
+status: 3
+tags: []
+user_id: anuch

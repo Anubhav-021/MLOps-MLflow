@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/146338352499856748/a4dc3423924b437897c6987cf4d36f48/artifacts
+end_time: 1749973382597
+entry_point_name: ''
+experiment_id: '146338352499856748'
+lifecycle_stage: active
+run_id: a4dc3423924b437897c6987cf4d36f48
+run_name: nosy-squirrel-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749973381570
+status: 4
+tags: []
+user_id: anuch
